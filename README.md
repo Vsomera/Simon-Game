@@ -1,2 +1,1 @@
 # Simon-Game
-(in progress...)
